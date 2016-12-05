@@ -37,7 +37,7 @@ Aktooor also supports nested forms (like a sale order and its order lines) using
 
 
 You may think that Aktooor can be made to look like the OpenERP web client. There is a wiki page talking about the similarities and differences with
-the OpenERP web client https://github.com/akretion/aktooor/wiki/similarities-and-difference-between-Aktooor-and-OpenERP-web-client .
+the OpenERP web client https://github.com/akretion/aktooor/wiki/similarities-and-difference-between-Aktooor-and-Odoo-web-client .
 
 
 This project uses MIT-LICENSE.
